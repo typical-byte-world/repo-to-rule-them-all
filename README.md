@@ -8,3 +8,4 @@
 - Understand how computer netowrks work, write my protocol?
 - Understand how linux works(systemd)
 - Write driver for linux
+- websockets for real-time chatting
