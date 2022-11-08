@@ -9,3 +9,4 @@
 - Understand how linux works(systemd)
 - Write driver for linux
 - websockets for real-time chatting
+- simple game that learn how to play in iteself(probably using reinforcement learning)
